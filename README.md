@@ -10,9 +10,12 @@ Open the application, Hit the Marker button at the top right corner . Download t
 Tap on  play and move camera  towards the marker .
 
 
-Tech-Stack<br/>
+TECH-STACK<br/>
+<br/>
 Unity3D <br/>
+ <br/>
 AR-Foundation<br/>
+ <br/>
 Ar-Core<br/>
 
 
