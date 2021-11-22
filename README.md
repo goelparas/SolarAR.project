@@ -1,3 +1,4 @@
+Download the Apk. <br/>
 [SolarAR](https://drive.google.com/uc?export=download&id=1-AHnzRc0hX3yAkVdwu8q8Rd7iUR4ti1g)<br/> 
 
 Its a AR Experience which can take the solar system in your home .<br/>
@@ -5,7 +6,7 @@ Its a AR Experience which can take the solar system in your home .<br/>
 
 <br/>
 INSTRUCTION -<br/>
-Download the Apk. <br/>
+
 Open the application, Hit the Marker button at the top right corner .<br/>
 
 Download the Marker image and hit play.<br/>
