@@ -6,10 +6,11 @@ Its a AR Experience which can take the solar system in your home .<br/>
 <br/>
 INSTRUCTION -<br/>
 Download the Apk. <br/>
-Open the application, Hit the Marker button at the top right corner . Download the Marker image and hit play.<br/>
-Tap on  play and move camera  towards the marker .
+Open the application, Hit the Marker button at the top right corner .<br/>
 
-
+Download the Marker image and hit play.<br/>
+Tap on  play and move camera  towards the marker .<br/>
+<br/>
 TECH-STACK<br/>
 <br/>
 Unity3D <br/>
