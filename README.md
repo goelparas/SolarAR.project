@@ -9,15 +9,17 @@ INSTRUCTION -<br/>
 
 Open the application, Hit the Marker button at the top right corner .<br/>
 
-Download the Marker image and hit play.<br/>
-Tap on  play and move camera  towards the marker .<br/>
+Download the Marker image.<br/>
+Tap on  play and move camera  towards the marker.<br/>
 <br/>
-TECH-STACK<br/>
+
+Tech-Stack<br/>
 <br/>
 Unity3D  Engine <br/>
-Packages Used 
-AR-Foundation<br/>
-Ar-Core<br/>
+Packages:  
+1)AR-Foundation<br/>
+2)Ar-Core<br/>
+
 
 
 
