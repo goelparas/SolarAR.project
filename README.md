@@ -14,10 +14,9 @@ Tap on  play and move camera  towards the marker .<br/>
 <br/>
 TECH-STACK<br/>
 <br/>
-Unity3D <br/>
- <br/>
+Unity3D  Engine <br/>
+Packages Used 
 AR-Foundation<br/>
- <br/>
 Ar-Core<br/>
 
 
